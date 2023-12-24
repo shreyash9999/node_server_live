@@ -1,0 +1,12 @@
+[{
+    "name":"Torch",
+    "price":200,
+    "featured":true,
+    "company":"mi"
+},
+{
+    "name":"Pen",
+    "price":40000,
+    "featured":true,
+    "company":"apple"
+}]
